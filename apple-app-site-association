@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ZNQ32KGUKR.ru.moosic.app",
+        "paths": [ "*", "/", "/*" ]
+      }
+    ]
+  }
+}
+
+
+
+
